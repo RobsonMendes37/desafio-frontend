@@ -11,7 +11,7 @@ O Supplier Management System é uma aplicação web que permite gerenciar inform
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: React.js
+- **Frontend**: React.js e BootStrap
 - **Backend**: SpringBoot
 - **Banco de Dados**: MySql
 - **Estilo**: CSS com Bootstrap
